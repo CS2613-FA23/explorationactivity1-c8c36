@@ -1,5 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/oB7VDeFN)
-# ExplorationActivity1# Explor1
+# Explor1
 To use pretrained weights: download from the [link](https://drive.google.com/file/d/1ajMqzqscDv9B2S5Xmtf9bbQeL-mH11lY/view?usp=sharing) pretrained weights, and drop them into the same folder where main.py is located<br>
 CS2613 Exploration Project 1
 To simply run the demo of the model on basic settings - run main.py after downloading pretrained weights<br>
